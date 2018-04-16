@@ -12,4 +12,21 @@ jsk757
 |/  
 * 17422ee 3rd commit (1st on testing).
 * 4a4de90 2nd commit (2nd on master).
+<<<<<<< HEAD
 * 4af00f6 1st commit (1st on master).
+
+mhf303
+*   4a82de7 9th commit (4th on testing).
+|\  
+| * 986b4eb 7th commit (5th on master).
+| *   5cce86d 6th commit (4th on master).
+| |\  
+| * | 93d66f7 5th commit (3rd on master).
+* | | 5c841f3 8th commit (3rd on testing).
+| |/  
+|/|   
+* | 1e0e2b4 4th commit (2nd on testing).
+|/  
+* f29cb19 3rd commit (1st on testing).
+* 16dfbc8 2nd commit (2nd on master).
+* b189b09 1st commit (1st on master).
